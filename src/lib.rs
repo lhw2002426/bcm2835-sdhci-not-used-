@@ -8,7 +8,7 @@
 
 #[macro_use]
 extern crate log;
-pub mod bcm2835_sdhci;
+pub mod Bcm2835SDhci;
 pub mod addr;
 pub mod emmc;
 pub mod interrupt;
